@@ -79,6 +79,6 @@ launch
 
     ros2 launch my_robot_description display.launch.py
 
-
+![slam](https://github.com/VampireDeer/minibot/assets/132260442/38a4fbc0-17dd-4756-b541-59aefa7c8e16)
 
 
