@@ -6,6 +6,10 @@
 - Ubuntu 22.04 Desktop
 - ROS2 Humble
 ## 2. 프로젝트 
-### 2-1. 실행 방법
-### 2-2. 사진
+### 2-1. 실행 방법 및 사진
+가제보만 실행 
+
+    ros2 launch my_robot_descriptoin upload.launch.py use_sim_time:=true
+
+
 
