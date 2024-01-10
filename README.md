@@ -49,7 +49,7 @@ Gazebo
 
 rviz2
 
-   rviz2
+    rviz2
 
 teleopkeyboard
 
