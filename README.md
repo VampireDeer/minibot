@@ -26,3 +26,11 @@
 ---
 가제보에 맵과 같이 실행하기
 
+Gazebo - minibot and map
+
+    ros2 launch my_robot_description launch_sim.launch.py 
+
+teleopkeyboard
+
+    ros2 run teleop_twist_keyboard teleop_twist_keyboard
+
