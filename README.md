@@ -54,7 +54,9 @@ teleopkeyboard
 
     ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
+teleop keyboard로 조종하여 map building 후 map 저장
 
+    ros2 run nav2_map_server map_saver_cli -f map_name
 
    
 
