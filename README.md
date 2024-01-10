@@ -26,15 +26,15 @@
 ---
 가제보와 rviz에 minibot과 map 띄우기
 
-- Gazebo -> minibot and map
-
+Gazebo -> minibot and map
+  
     ros2 launch my_robot_description launch_sim.launch.py 
 
-- teleopkeyboard
+teleopkeyboard
 
     ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
-- rviz2 
+rviz2 
 
     rviz2
 
