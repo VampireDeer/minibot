@@ -10,5 +10,5 @@
 가제보만 실행하기
 - 터미널 3개에서 각각 실행
 
-    ros2 launch my_robot_description upload.launch.py use_sim_time:=true
+```ros2 launch my_robot_description upload.launch.py use_sim_time:=true```
 
