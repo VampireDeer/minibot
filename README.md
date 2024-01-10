@@ -25,7 +25,7 @@
 ---
 ### 2-2. 가제보와 rviz2에 minibot과 map 띄우기
 
-Gazebo -> minibot and map
+gazebo -> minibot and map
   
     ros2 launch my_robot_description launch_sim.launch.py 
 
