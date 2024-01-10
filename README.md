@@ -44,13 +44,11 @@ Camera
 ---
 ### 2-3. Gazebo 와 rviz2로 map building하기
 
-Gazebo
+2-2를 실행한 후
 
-    ros2 launch my_robot_description launch_sim.launch.py
+map building
 
-rviz2
-
-    rviz2
+    ros2 launch my_robot_description map_building.launch.py
 
 teleopkeyboard
 
