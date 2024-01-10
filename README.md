@@ -62,6 +62,8 @@ teleop keyboard로 조종하여 map building 후 map 저장
 
     ros2 run nav2_map_server map_saver_cli -f map_name
 
+![map_building](https://github.com/VampireDeer/minibot/assets/132260442/d243875f-d9ce-4a16-8e49-b1c69313000f)
+
 ---
 ### 2-4. Ros2 SLAM
 
