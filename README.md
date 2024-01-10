@@ -38,10 +38,11 @@ rviz2
 
     rviz2
 
-rviz2 Displays 설정
-Fixed Frame -> base_link
-RobotModel
-TF
-LaserScan
-Map
-Camera
+rviz2 Displays 설정\
+Fixed Frame -> base_link\
+RobotMode\
+TF\
+LaserScan\
+Map\
+Camera\
+
