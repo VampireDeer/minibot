@@ -40,9 +40,9 @@ rviz2
 
 - rviz2 Displays 설정\
 Fixed Frame -> base_link\
-RobotMode\
+RobotModel\
 TF\
 LaserScan\
 Map\
-Camera\
+Camera
 
