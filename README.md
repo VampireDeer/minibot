@@ -58,6 +58,21 @@ teleop keyboard로 조종하여 map building 후 map 저장
 
     ros2 run nav2_map_server map_saver_cli -f map_name
 
-   
+---
+### 2-4. Ros2 navigation 실행하기
+
+gazebo 
+
+    ros2 launch my_robot_description launch_sim.launch.py
+
+navigation
+
+    ros2 launch my_robot_description bringup.launch.py use_sim_time:=true map:=./map_custom.yaml
+
+launch
+
+    ros2 launch my_robot_description display.launch.py
+
+
 
 
