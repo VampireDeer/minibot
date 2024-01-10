@@ -22,6 +22,8 @@
 
     ros2 run gazebo_ros spawn_entity.py -topic robot_description -entity my_robot
 
+![gazebo1](https://github.com/VampireDeer/minibot/assets/132260442/5f07e61f-a5c7-42b9-b615-a42cd0974593)
+
 ---
 ### 2-2. 가제보와 rviz2에 minibot과 map 띄우기
 
