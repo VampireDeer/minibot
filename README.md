@@ -26,7 +26,7 @@
 ---
 가제보에 맵과 같이 실행하기
 
-Gazebo - minibot and map
+Gazebo -> minibot and map
 
     ros2 launch my_robot_description launch_sim.launch.py 
 
