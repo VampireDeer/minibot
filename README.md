@@ -43,6 +43,8 @@ LaserScan\
 Map\
 Camera
 
+![gazebo_map](https://github.com/VampireDeer/minibot/assets/132260442/412266f3-cea2-4ede-88c9-182a27f835e0)
+
 ---
 ### 2-3. Gazebo 와 rviz2로 map building하기
 
