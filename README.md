@@ -34,7 +34,14 @@ teleopkeyboard
 
     ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
-rviz2
+rviz2 
 
     rviz2
 
+rviz2 Displays 설정
+Fixed Frame -> base_link
+RobotModel
+TF
+LaserScan
+Map
+Camera
