@@ -12,3 +12,11 @@
 
     ros2 launch my_robot_description upload.launch.py use_sim_time:=true
 
+
+
+    ros2 launch gazebo_ros gazebo.launch.py
+
+
+
+    ros2 run gazebo_ros spawn_entity.py -topic robot_description -entity my_robot
+
